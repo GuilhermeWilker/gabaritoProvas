@@ -1,0 +1,11 @@
+{
+    "name": "gwsilva/exportar-gabarito",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "smalot/pdfparser": "^2.11"
+    }
+}
